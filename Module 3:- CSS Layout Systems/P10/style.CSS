@@ -8,7 +8,7 @@ body {
     background: #f4f4f4;
 }
 
-.header {
+header {
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -31,10 +31,6 @@ body {
 .navbar a {
     color: white;
     text-decoration: none;
-}
-
-.navbar a:hover {
-    color: #00b4d8;
 }
 
 .btn {

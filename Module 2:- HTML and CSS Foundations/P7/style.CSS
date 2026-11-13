@@ -22,7 +22,6 @@ h2 {
 
 p {
     font-size: 18px;
-    line-height: 1.6;
 }
 
 .card {
@@ -38,5 +37,4 @@ button {
     padding: 12px 25px;
     border: none;
     border-radius: 5px;
-    cursor: pointer;
 }
