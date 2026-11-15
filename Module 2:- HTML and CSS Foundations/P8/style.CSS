@@ -6,7 +6,6 @@ body {
 
 nav {
     position: sticky;
-    top: 0;
     background: #222;
     padding: 20px;
     text-align: center;
