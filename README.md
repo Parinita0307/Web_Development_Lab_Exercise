@@ -47,6 +47,6 @@ How to Run the Projects
 
 Author
 
-Parinita Giridhar
+Parinita G
 
 Web Development Lab Student
